@@ -10,6 +10,16 @@
 </p>
 
 <p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-All%20rights%20reserved-red" alt="All rights reserved">
+  </a>
+  <img src="https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/runs-100%25%20in%20the%20browser-success" alt="Runs 100% in the browser">
+  <img src="https://img.shields.io/badge/tests-129%20unit%20%C2%B7%2032%2F32%20decision%20cases-brightgreen" alt="Tests">
+</p>
+
+<p align="center">
   Team <b>Error code 418</b> · Since AI Hackathon, Turku, 6-8 Nov 2026<br>
   Challenge: <b>Bayer, "Build Less, Build Better: AI for Governed Analytics"</b>
 </p>
