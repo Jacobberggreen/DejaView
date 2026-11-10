@@ -1,12 +1,5 @@
 <p align="center">
-  <img src="docs/images/logo.svg" width="84" alt="Déjà View logo">
-</p>
-
-<h1 align="center">Déjà View</h1>
-
-<p align="center">
-  <b>Build Less, Build Better.</b><br>
-  Ask for a dashboard in plain English. Déjà View first checks whether one already exists, and only builds a new one when it has to.
+  <img src="docs/images/banner.png" alt="Déjà View. Build less. Build better. Check what exists before building more.">
 </p>
 
 <p align="center">
@@ -31,7 +24,7 @@
 
 https://github.com/user-attachments/assets/f5d89151-ec7a-4434-8476-7313f1c1dafc
 
-This repository only presents the project. The source code is private.
+This repository only presents the project. The source code is private (see [Why is the code private?](#why-is-the-code-private)).
 
 ## The problem
 
@@ -97,6 +90,12 @@ Built on Bayer's **synthetic** data pack. Nothing here is real Bayer performance
 - A prototype: no authentication and no real publishing to Power BI.
 - Synthetic data: names, owners and figures are illustrative.
 - The local AI model needs a browser with WebGPU.
+
+## Why is the code private?
+
+Déjà View was built in 38 hours by four people at the Since AI Hackathon, and the source code is the team's work. We keep it in a private repository so that nobody can copy it and use it as their own. This public page shows what we built, how it looks and how it behaves, without giving the implementation away.
+
+Want to know more, or to discuss access or licensing? Reach out to the team through the GitHub profile of [@Jacobberggreen](https://github.com/Jacobberggreen).
 
 ## Team
 
