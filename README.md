@@ -26,6 +26,8 @@
 
 https://github.com/user-attachments/assets/f5d89151-ec7a-4434-8476-7313f1c1dafc
 
+**Live demo: [hackathonsinceai-dejaview.netlify.app](https://hackathonsinceai-dejaview.netlify.app/)**
+
 This repository only presents the project. The source code is private (see [Why is the code private?](#why-is-the-code-private)).
 
 ## The problem
