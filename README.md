@@ -97,7 +97,7 @@ Built on Bayer's **synthetic** data pack. Nothing here is real Bayer performance
 
 Déjà View was built in 48 hours by four people at the Since AI Hackathon, and the source code is the team's work. We keep it in a private repository so that nobody can copy it and use it as their own. This public page shows what we built, how it looks and how it behaves, without giving the implementation away.
 
-Want to know more, or to discuss access or licensing? Reach out to the team through the GitHub profile of [@Jacobberggreen](https://github.com/Jacobberggreen) [@OmarLundgren](https://github.com/OmarLundgren).
+Want to know more, or to discuss access or licensing? Reach out to the team through the GitHub profile of [@Jacobberggreen](https://github.com/Jacobberggreen) [@OmarLundgren](https://github.com/OmarLundgren) [@Zeebooo](https://github.com/Zeebooo).
 
 ## Team
 
